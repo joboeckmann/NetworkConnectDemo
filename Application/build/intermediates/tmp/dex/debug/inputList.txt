@@ -1,0 +1,7 @@
+/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/classes/debug
+/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-124b9fd39e36e1b340d8e2910a59a583fbad35e6.jar
+/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-c0dbff49aec46f48b8e551102e0976f6de99f4ef.jar
+/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-e1eb750c4947549bbb5b62134c7f1ad2cede74d6.jar
+/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/gson-2.2.4-7f250c1f90a1502f81b2356d8d9a6978252264f5.jar
+/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-560bf081f55789891da78989a574ecdd79041b3d.jar
+/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-fed7d3a50bea9fc10d8be01315c561254a380ebb.jar

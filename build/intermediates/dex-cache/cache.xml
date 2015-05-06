@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-c0dbff49aec46f48b8e551102e0976f6de99f4ef.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-e1eb750c4947549bbb5b62134c7f1ad2cede74d6.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-124b9fd39e36e1b340d8e2910a59a583fbad35e6.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/gson-2.2.4-7f250c1f90a1502f81b2356d8d9a6978252264f5.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-fed7d3a50bea9fc10d8be01315c561254a380ebb.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/shannoncox/Android/NetworkConnect/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-560bf081f55789891da78989a574ecdd79041b3d.jar" />
+    </item>
+
+</items>
